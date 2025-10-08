@@ -2,6 +2,7 @@
 # 💧 AI Water Tracker
 
 A smart water intake tracking application with AI-powered feedback and beautiful visualizations.
+https://water-tracker-pteriu8ekhpuxvovcamfgc.streamlit.app/  to start your Water Tracking journey
 
 ## Features
 
