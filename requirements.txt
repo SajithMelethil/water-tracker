@@ -1,29 +1,31 @@
-# LLM and AI agent Frameworks
-langchain == 0.1.12
-openai == 1.14.1
-llama-index  #automtically install latest versions
+# Core Streamlit & Dashboard
+streamlit==1.31.1
+pandas==2.1.3
+plotly==5.17.0
+altair==5.2.2
+numpy==1.24.3
 
+# LLM and AI Frameworks
+langchain==0.1.12
+langchain-groq==0.1.0
+openai==1.14.1
+llama-index
 
-#backend api
-fastapi == 0.109.2
-uvicorn == 0.27.0.post1
+# Backend API (optional for future)
+fastapi==0.109.2
+uvicorn==0.27.0
 
-#Database
-sqlalchemy == 2.0.27
-sqlite-utils == 3.35
+# Database
+sqlalchemy==2.0.27
+sqlite-utils==3.35
 
-#rnvironment variables
-python-dotenv == 1.0.1
+# Environment & Utilities
+python-dotenv==1.0.1
+loguru==0.7.2
 
+# Task Scheduling & CLI
+apscheduler==3.10.4
+typer==0.9.0
 
-#logging and debgging
-loguru == 0.7.2
-
-#task scheduling for remainders
-apscheduler == 3.10.4
-
-#cli interaction
-typer == 0.9.0
-
-#streamlit
-streamlit == 1.31.1
+# Additional dependencies your dashboard needs
+sqlite3
