@@ -5,11 +5,11 @@ plotly==5.17.0
 altair==5.0.1
 numpy==1.24.3
 
-# LLM and AI Frameworks
-langchain==0.0.347
+# LLM and AI Frameworks - COMPATIBLE VERSIONS
+langchain==0.1.17
 langchain-groq==0.1.0
 openai==1.14.1
-llama-index
+llama-index==0.10.20
 
 # Backend API (optional)
 fastapi==0.104.1
