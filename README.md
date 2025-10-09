@@ -40,3 +40,9 @@ streamlit run dashboard/app.py
 4. View your progress and get AI feedback
 5. Monitor your hydration trends over time
 "@ | Out-File -FilePath README.md -Encoding utf8
+
+THE WORKING
+
+![Research Configuration](image1.png)
+
+![Research Configuration](image2.png)
