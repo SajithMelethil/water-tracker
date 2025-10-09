@@ -45,4 +45,4 @@ THE WORKING
 
 ![Research Configuration](image1.png)
 
-![Research Configuration](image2.png)
+![Research Configuration1](image2.png)
